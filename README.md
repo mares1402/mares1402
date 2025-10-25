@@ -1,26 +1,29 @@
 <h1 align="center">Hi 👋, I'm Jose Mares</h1>
 
 <p align="center">
-🎓 Computer Systems Engineering student with a strong passion for Web Design and Front-End Development.  
-🎮 I also explore the world of gaming and interactive experiences.  
-💻 I work with Python, JavaScript, Java, C, C++, C#, Git, Cisco, PostgreSQL, Oracle SQL, and MySQL.  
-🚀 Currently learning React and Angular to expand my Full-Stack capabilities.
+  🎓 Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
+  🎮 Exploring gaming and interactive experiences.<br>
+  💻 Working with Python, JavaScript, Java, C, C++, C#, Git, Cisco, PostgreSQL, Oracle SQL, and MySQL.<br>
+  🚀 Currently learning React and Angular to expand Full-Stack capabilities.
 </p>
 
 <p align="center">
-<a href="https://github.com/mares1402" target="_blank"><img src="https://img.shields.io/github/followers/mares1402?label=Follow&style=for-the-badge" alt="GitHub Follow" /></a>
+  <a href="https://github.com/mares1402" target="_blank">
+    <img src="https://img.shields.io/github/followers/mares1402?label=Follow&style=for-the-badge" alt="GitHub Follow" />
+  </a>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<!-- Optional: move image below or float left to avoid overlap -->
+<div align="center">
+  <img alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</div>
 
----
-
-### 🌱 Currently Learning
-- Full-Stack Web Development
-- React.js & Angular
-- UI/UX Design Principles
-
----
+<h3>🌱 Currently Learning</h3>
+<ul>
+  <li>Full-Stack Web Development</li>
+  <li>React.js & Angular</li>
+  <li>UI/UX Design Principles</li>
+</ul>
 
 ### 🛠️ Languages and Tools
 
