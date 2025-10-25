@@ -5,13 +5,10 @@
   🖥️ Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
   🎮 Exploring gaming and interactive experiences.<br>
   💻 Working with Python, JavaScript, Java, C++, C#, Git, Cisco, PostgreSQL, Oracle SQL, and MySQL.<br>
-  📚 Currently learning React and Angular to expand Full-Stack capabilities.<br><br>
-
-  <p >
-    <a href="https://github.com/mares1402" target="_blank">
+  🌐 Currently learning React and Angular to expand Full-Stack capabilities.<br><br>
+  <a href="https://github.com/mares1402" target="_blank">
     <img src="https://img.shields.io/github/followers/mares1402?label=Follow&style=for-the-badge" alt="GitHub Follow" />
-    </a>
-  </p>
+  </a>
 </p>
 
 <!-- 🌱 Currently Learning -->
@@ -30,6 +27,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /></a>
@@ -62,7 +60,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mares1402&theme=dark" alt="GitHub Streak" />
 </div>
 
-<!-- 🤝 Contact Section -->
+<!-- 🤝 Connect with Me -->
 <h3>🤝 Connect with Me</h3>
 <p align="center">
   <a href="https://instagram.com/anii_akhil" target="_blank">
