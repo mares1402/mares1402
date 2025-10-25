@@ -2,11 +2,10 @@
 <p align="left">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="200" align="right">
   <h1>Hi 👋, I'm Jose Mares</h1>
-  🎓 Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
+  🖥️ Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
   🎮 Exploring gaming and interactive experiences.<br>
-  💻 Working with JavaScript, Java, C, C++, C#, Go, CSS, React.js, Oracle SQL, and MySQL.<br>
-  🚀 Currently learning Full-Stack Web Development, React.js, and API Architecture.<br>
-  🎨 Interested in UI/UX Design Principles.<br><br>
+  💻 Working with Python, JavaScript, Java, C++, C#, Git, Cisco, PostgreSQL, Oracle SQL, and MySQL.<br>
+  📚 Currently learning React and Angular to expand Full-Stack capabilities.<br><br>
   <a href="https://github.com/mares1402" target="_blank">
     <img src="https://img.shields.io/github/followers/mares1402?label=Follow&style=for-the-badge" alt="GitHub Follow" />
   </a>
@@ -16,7 +15,8 @@
 <h3>🌱 Currently Learning</h3>
 <ul>
   <li>Full-Stack Web Development</li>
-  <li>React.js & API Architecture</li>
+  <li>React.js & Angular</li>
+  <li>API Architecture</li>
   <li>UI/UX Design Principles</li>
 </ul>
 
@@ -28,6 +28,13 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" /></a>
