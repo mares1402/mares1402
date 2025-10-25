@@ -1,6 +1,6 @@
 <table align="center" border="0">
-  <tr align="center" border="0">
-    <td width="60%">
+  <tr >
+    <td width="50%">
       <h1>Hi 👋, I'm Jose Mares</h1>
       <p>
         🎓 Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
