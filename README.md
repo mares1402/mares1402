@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mares1402&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
