@@ -1,5 +1,5 @@
 <table align="center" border="0">
-  <tr align="center" border="0">
+  <tr >
     <td width="60%">
       <h1>Hi 👋, I'm Jose Mares</h1>
       <p>
@@ -49,7 +49,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <table align="center" border="0">
-  <tr align="center" border="0">
+  <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mares1402&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
     </td>
