@@ -1,6 +1,6 @@
-<table align="center">
+<table align="center" border="0">
   <tr>
-    <td widt=60%>
+    <td width="60%">
       <h1>Hi 👋, I'm Jose Mares</h1>
       <p>
         🎓 Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
@@ -27,15 +27,28 @@
   <li>UI/UX Design Principles</li>
 </ul>
 
-### 🛠️ Languages and Tools
+<h3>🛠️ Languages and Tools</h3>
 
 <p align="left">
-  <!-- tus íconos van aquí sin cambios -->
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" /></a>
+  <a href="https://www.cisco.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="40" height="40" /></a>
 </p>
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats</h3>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mares1402&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
@@ -51,7 +64,7 @@
   </tr>
 </table>
 
-### 🤝 Connect with Me
+<h3>🤝 Connect with Me</h3>
 
 <div align="center">
   <a href="https://instagram.com/anii_akhil" target="_blank">
@@ -63,5 +76,7 @@
   <img src="https://komarev.com/ghpvc/?username=mares1402&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-🛠 Last Updated: 24/10/2025  
-📍 Based in Saltillo, Mexico
+<p align="center">
+  🛠 Last Updated: 24/10/2025<br>
+  📍 Based in Saltillo, Mexico
+</p>
