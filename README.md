@@ -1,11 +1,11 @@
 <!-- 🧑‍💻 Hero Section -->
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 300px; max-width: 600px;">
     <h1>Hi 👋, I'm Jose Mares</h1>
     <p>
-      💻 Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
+      🎓 Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
       🎮 Exploring gaming and interactive experiences.<br>
-      🧠 Working with Python, JavaScript, Java, C++, C#, Git, Cisco, PostgreSQL, Oracle SQL, and MySQL.<br>
+      💻 Working with Python, JavaScript, Java, C++, C#, Git, Cisco, PostgreSQL, Oracle SQL, and MySQL.<br>
       🚀 Currently learning React and Angular to expand Full-Stack capabilities.
     </p>
     <p>
@@ -16,7 +16,7 @@
   </div>
 
   <div style="flex: 1; min-width: 250px; text-align: center;">
-    <img alt="Jose coding" width="250" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+    <img alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
   </div>
 </div>
 
