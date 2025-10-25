@@ -49,7 +49,7 @@
 
 <!-- 📊 GitHub Stats Section -->
 <h3>📊 GitHub Stats</h3>
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mares1402&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
   </div>
@@ -58,7 +58,7 @@
   </div>
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center; margin-top: 30px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mares1402&theme=dark" alt="GitHub Streak" />
 </div>
 
