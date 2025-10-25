@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
   🎮 Exploring gaming and interactive experiences.<br>
-  💻 Working with Python, JavaScript, Java, C, C++, C#, Git, Cisco, PostgreSQL, Oracle SQL, and MySQL.<br>
+  💻 Working with Python, JavaScript, Java, C++, C#, Git, Cisco, PostgreSQL, Oracle SQL, and MySQL.<br>
   🚀 Currently learning React and Angular to expand Full-Stack capabilities.
 </p>
 
@@ -31,7 +31,6 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" /></a>
@@ -45,30 +44,38 @@
   <a href="https://www.cisco.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/cisco-2.svg" width="40" height="40" /></a>
 </p>
 
----
 
 ### 📊 GitHub Stats
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+<div align="center">
+  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mares1402&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" /></p>
-<br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mares1402&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mares1402&theme=dark" alt="GitHub Streak" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mares1402&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+</div>
 
----
+<br>
 
-### 🤝 Connect with Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mares1402&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</div>
 
-<p align="left">
-  <a href="https://instagram.com/anii_akhil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mares1402&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mares1402&theme=dark" alt="GitHub Streak" />
+</div>
 
----
+<div align="center">
+  <a href="https://instagram.com/anii_akhil" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mares1402&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 🛠 Last Updated: 24/10/2025  
 📍 Based in Saltillo, Mexico  
