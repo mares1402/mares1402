@@ -76,6 +76,6 @@
 
 <!-- 📍 Footer -->
 <p align="center">
-  🛠 Last Updated: 24/10/2025<br>
+  🛠 Last Updated: 24/11/2023<br>
   📍 Based in Saltillo, Mexico
 </p>
