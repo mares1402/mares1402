@@ -1,6 +1,6 @@
-<table>
+<table align="center">
   <tr>
-    <td align="center">
+    <td widt=60%>
       <h1>Hi 👋, I'm Jose Mares</h1>
       <p>
         🎓 Computer Systems Engineering student passionate about Web Design and Front-End Development.<br>
