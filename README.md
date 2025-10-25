@@ -6,6 +6,8 @@
   🎮 Exploring gaming and interactive experiences.<br>
   💻 Working with Python, JavaScript, Java, C++, C#, Git, Cisco, PostgreSQL, Oracle SQL, and MySQL.<br>
   📚 Currently learning React and Angular to expand Full-Stack capabilities.<br><br>
+
+  
   <a href="https://github.com/mares1402" target="_blank">
     <img src="https://img.shields.io/github/followers/mares1402?label=Follow&style=for-the-badge" alt="GitHub Follow" />
   </a>
